@@ -1,0 +1,3 @@
+**Note:** This project has been exported to https://github.com/UKGovLD/publishing-statistical-data
+
+Building on the output of the Publishing Statistical Linked Data workshop, this project will further develop the RDF ontology that has been defined for publishing statistical data using RDF. It will also build and refine design patterns, and other specifications as necessary, to provide a basis for publishing statistical data in a linked open data style
